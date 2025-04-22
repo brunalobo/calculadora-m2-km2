@@ -14,7 +14,7 @@ def converter():
 # Criar a janela principal
 janela = tk.Tk()
 janela.title("Conversor de m² para km²")
-janela.geometry("400x400")
+janela.geometry("300x200")
 
 # Título
 titulo_label = tk.Label(janela, text="Calculadora de Área", font=("Arial", 16))
